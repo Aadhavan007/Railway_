@@ -1,0 +1,6 @@
+station_id,station_name,station_type,control_area,electrification,operational_status
+ST01,RailSync ST01,Junction,CTRL-01,25kV AC,ACTIVE
+ST02,RailSync ST02,Block Station,CTRL-01,25kV AC,ACTIVE
+ST03,RailSync ST03,Block Station,CTRL-01,25kV AC,ACTIVE
+ST04,RailSync ST04,Block Station,CTRL-01,25kV AC,ACTIVE
+ST05,RailSync ST05,Junction,CTRL-01,25kV AC,ACTIVE

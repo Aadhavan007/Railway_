@@ -1,0 +1,85 @@
+RAILSYNC AI — DATA CONTRACT
+===========================
+
+Purpose
+-------
+Synthetic but railway-structured project data for the RailSync AI prototype.
+The records are NOT real Indian Railways operational records.
+
+Core operational flow
+---------------------
+Department requests
+    -> Controller / Control Office
+    -> Train movement chart
+    -> Block opportunities
+    -> Candidate generation
+    -> Conflict checking
+    -> Coordination
+    -> Optimization
+    -> Safety validation
+    -> Controller approval
+
+Master data
+-----------
+railsync_station_master.csv
+    Station identity and control-area information.
+
+railsync_railway_topology.csv
+    Corridor -> subsection -> work area -> station relationship.
+
+railsync_asset_master.csv
+    Asset identity, department, type, location and criticality.
+
+Operational data
+----------------
+railsync_department_requests_420.csv
+    Maintenance requests originating from Engineering, S&T and Traction.
+
+railsync_train_movements_7day.csv
+    Seven-day synthetic control-chart movements used to calculate train
+    conflicts and candidate working windows.
+
+railsync_weekly_block_availability.csv
+    Planned block opportunities. These are NOT automatically safe windows.
+
+Configuration
+-------------
+railsync_work_requirements.csv
+    Project-level maintenance requirements and configurable safety buffers.
+    The 15-minute value is a RailSync project parameter, not represented
+    here as a universal Indian Railways rule.
+
+Important algorithm rule
+------------------------
+The scheduler must NOT simply trust block_availability.csv.
+
+For a candidate maintenance window:
+    previous relevant train clears
+        + configured safety buffer
+        <= maintenance start
+    AND
+    maintenance end
+        + configured safety buffer
+        <= next relevant train movement
+
+The candidate must also:
+    - belong to the correct corridor/subsection
+    - fit within the planned block opportunity
+    - fit the task duration
+    - meet the task deadline within the seven-day planning horizon
+    - satisfy department/task constraints
+    - pass conflict checks
+    - pass final safety validation
+
+Planning cycle
+--------------
+The project uses a Sunday planning-cycle concept to prepare the next
+seven-day plan. Emergency work is handled separately for immediate
+response.
+
+Realism boundary
+----------------
+The structure and workflow are informed by Indian Railways operating
+material concerning Control, train-movement charts, engineering blocks,
+integrated blocks and corridor blocks. The actual IDs, timetables,
+requests, topology and asset records in this project are synthetic.

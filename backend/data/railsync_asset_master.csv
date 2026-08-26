@@ -1,0 +1,541 @@
+asset_id,department,asset_type,component_type,corridor_id,subsection_id,work_area_id,from_station,to_station,asset_status,criticality_class,typical_issue
+ENG-00001,Engineering,Bridge,Bridge Structure,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,LOW,Bridge inspection
+ENG-00002,Engineering,Track,Rail,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,MEDIUM,Rail defect / wear
+ENG-00003,Engineering,Bridge,Bridge Structure,C03,C03-S04,C03-WA04,ST03,ST04,MONITORING,HIGH,Bridge inspection
+ENG-00004,Engineering,Track,Sleeper,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00005,Engineering,Track,Sleeper,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Sleeper deterioration
+ENG-00006,Engineering,Track,Turnout,C04,C04-S02,C04-WA02,ST04,ST05,MONITORING,HIGH,Turnout defect
+ENG-00007,Engineering,Track,Ballast,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00008,Engineering,Track,Ballast,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,HIGH,Ballast condition
+ENG-00009,Engineering,Track,Ballast,C01,C01-S01,C01-WA01,ST01,ST02,MONITORING,MEDIUM,Ballast condition
+ENG-00010,Engineering,Track,Sleeper,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00011,Engineering,Track,Ballast,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,MEDIUM,Ballast condition
+ENG-00012,Engineering,Track,Rail,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,MEDIUM,Rail defect / wear
+ENG-00013,Engineering,Track,Turnout,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,CRITICAL,Turnout defect
+ENG-00014,Engineering,Track,Rail,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,MEDIUM,Rail defect / wear
+ENG-00015,Engineering,Track,Ballast,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,CRITICAL,Ballast condition
+ENG-00016,Engineering,Bridge,Bridge Structure,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00017,Engineering,Bridge,Bridge Structure,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00018,Engineering,Bridge,Bridge Structure,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Bridge inspection
+ENG-00019,Engineering,Track,Rail,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,HIGH,Rail defect / wear
+ENG-00020,Engineering,Bridge,Bridge Structure,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,LOW,Bridge inspection
+ENG-00021,Engineering,Track,Sleeper,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,MEDIUM,Sleeper deterioration
+ENG-00022,Engineering,Bridge,Bridge Structure,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,CRITICAL,Bridge inspection
+ENG-00023,Engineering,Track,Turnout,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,MEDIUM,Turnout defect
+ENG-00024,Engineering,Track,Turnout,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,HIGH,Turnout defect
+ENG-00025,Engineering,Track,Rail,C03,C03-S04,C03-WA04,ST03,ST04,MONITORING,MEDIUM,Rail defect / wear
+ENG-00026,Engineering,Track,Sleeper,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,LOW,Sleeper deterioration
+ENG-00027,Engineering,Track,Turnout,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Turnout defect
+ENG-00028,Engineering,Track,Ballast,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00029,Engineering,Bridge,Bridge Structure,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Bridge inspection
+ENG-00030,Engineering,Track,Rail,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,MEDIUM,Rail defect / wear
+ENG-00031,Engineering,Track,Rail,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Rail defect / wear
+ENG-00032,Engineering,Track,Ballast,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00033,Engineering,Track,Sleeper,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Sleeper deterioration
+ENG-00034,Engineering,Track,Turnout,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Turnout defect
+ENG-00035,Engineering,Track,Rail,C02,C02-S01,C02-WA01,ST02,ST03,MONITORING,MEDIUM,Rail defect / wear
+ENG-00036,Engineering,Track,Turnout,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Turnout defect
+ENG-00037,Engineering,Track,Ballast,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00038,Engineering,Track,Turnout,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,MEDIUM,Turnout defect
+ENG-00039,Engineering,Track,Sleeper,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00040,Engineering,Bridge,Bridge Structure,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,LOW,Bridge inspection
+ENG-00041,Engineering,Track,Rail,C04,C04-S02,C04-WA02,ST04,ST05,MONITORING,CRITICAL,Rail defect / wear
+ENG-00042,Engineering,Track,Rail,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Rail defect / wear
+ENG-00043,Engineering,Track,Rail,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,LOW,Rail defect / wear
+ENG-00044,Engineering,Track,Sleeper,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00045,Engineering,Track,Sleeper,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00046,Engineering,Bridge,Bridge Structure,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,CRITICAL,Bridge inspection
+ENG-00047,Engineering,Track,Ballast,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Ballast condition
+ENG-00048,Engineering,Track,Rail,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,LOW,Rail defect / wear
+ENG-00049,Engineering,Track,Rail,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,CRITICAL,Rail defect / wear
+ENG-00050,Engineering,Bridge,Bridge Structure,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,LOW,Bridge inspection
+ENG-00051,Engineering,Bridge,Bridge Structure,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,Bridge inspection
+ENG-00052,Engineering,Track,Rail,C04,C04-S04,C04-WA04,ST04,ST05,MONITORING,LOW,Rail defect / wear
+ENG-00053,Engineering,Track,Ballast,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00054,Engineering,Track,Turnout,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,MEDIUM,Turnout defect
+ENG-00055,Engineering,Track,Ballast,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00056,Engineering,Track,Sleeper,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00057,Engineering,Bridge,Bridge Structure,C04,C04-S04,C04-WA04,ST04,ST05,MONITORING,MEDIUM,Bridge inspection
+ENG-00058,Engineering,Track,Rail,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,CRITICAL,Rail defect / wear
+ENG-00059,Engineering,Track,Turnout,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,CRITICAL,Turnout defect
+ENG-00060,Engineering,Track,Turnout,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Turnout defect
+ENG-00061,Engineering,Track,Ballast,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,HIGH,Ballast condition
+ENG-00062,Engineering,Track,Sleeper,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00063,Engineering,Track,Ballast,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,MEDIUM,Ballast condition
+ENG-00064,Engineering,Track,Turnout,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Turnout defect
+ENG-00065,Engineering,Track,Ballast,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,HIGH,Ballast condition
+ENG-00066,Engineering,Bridge,Bridge Structure,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,HIGH,Bridge inspection
+ENG-00067,Engineering,Track,Turnout,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,LOW,Turnout defect
+ENG-00068,Engineering,Track,Turnout,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,MEDIUM,Turnout defect
+ENG-00069,Engineering,Track,Ballast,C01,C01-S01,C01-WA01,ST01,ST02,MONITORING,CRITICAL,Ballast condition
+ENG-00070,Engineering,Bridge,Bridge Structure,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,MEDIUM,Bridge inspection
+ENG-00071,Engineering,Track,Ballast,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Ballast condition
+ENG-00072,Engineering,Track,Rail,C04,C04-S02,C04-WA02,ST04,ST05,MONITORING,CRITICAL,Rail defect / wear
+ENG-00073,Engineering,Track,Ballast,C04,C04-S02,C04-WA02,ST04,ST05,MONITORING,MEDIUM,Ballast condition
+ENG-00074,Engineering,Track,Turnout,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,CRITICAL,Turnout defect
+ENG-00075,Engineering,Track,Ballast,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,HIGH,Ballast condition
+ENG-00076,Engineering,Bridge,Bridge Structure,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00077,Engineering,Bridge,Bridge Structure,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,LOW,Bridge inspection
+ENG-00078,Engineering,Bridge,Bridge Structure,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,LOW,Bridge inspection
+ENG-00079,Engineering,Track,Turnout,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Turnout defect
+ENG-00080,Engineering,Track,Turnout,C04,C04-S02,C04-WA02,ST04,ST05,MONITORING,CRITICAL,Turnout defect
+ENG-00081,Engineering,Track,Turnout,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,HIGH,Turnout defect
+ENG-00082,Engineering,Bridge,Bridge Structure,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,HIGH,Bridge inspection
+ENG-00083,Engineering,Bridge,Bridge Structure,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,HIGH,Bridge inspection
+ENG-00084,Engineering,Bridge,Bridge Structure,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Bridge inspection
+ENG-00085,Engineering,Track,Turnout,C03,C03-S01,C03-WA01,ST03,ST04,MONITORING,CRITICAL,Turnout defect
+ENG-00086,Engineering,Track,Sleeper,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00087,Engineering,Bridge,Bridge Structure,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00088,Engineering,Track,Turnout,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,Turnout defect
+ENG-00089,Engineering,Track,Rail,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Rail defect / wear
+ENG-00090,Engineering,Track,Turnout,C04,C04-S04,C04-WA04,ST04,ST05,MONITORING,CRITICAL,Turnout defect
+ENG-00091,Engineering,Track,Ballast,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,LOW,Ballast condition
+ENG-00092,Engineering,Track,Sleeper,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00093,Engineering,Bridge,Bridge Structure,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,HIGH,Bridge inspection
+ENG-00094,Engineering,Track,Turnout,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,LOW,Turnout defect
+ENG-00095,Engineering,Track,Rail,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,MEDIUM,Rail defect / wear
+ENG-00096,Engineering,Track,Sleeper,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,HIGH,Sleeper deterioration
+ENG-00097,Engineering,Bridge,Bridge Structure,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00098,Engineering,Bridge,Bridge Structure,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,CRITICAL,Bridge inspection
+ENG-00099,Engineering,Track,Sleeper,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00100,Engineering,Track,Ballast,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,LOW,Ballast condition
+ENG-00101,Engineering,Track,Ballast,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,LOW,Ballast condition
+ENG-00102,Engineering,Track,Sleeper,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00103,Engineering,Track,Sleeper,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,MEDIUM,Sleeper deterioration
+ENG-00104,Engineering,Track,Sleeper,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,Sleeper deterioration
+ENG-00105,Engineering,Track,Ballast,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00106,Engineering,Bridge,Bridge Structure,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00107,Engineering,Track,Sleeper,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00108,Engineering,Track,Turnout,C04,C04-S04,C04-WA04,ST04,ST05,MONITORING,CRITICAL,Turnout defect
+ENG-00109,Engineering,Track,Ballast,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,HIGH,Ballast condition
+ENG-00110,Engineering,Track,Rail,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,HIGH,Rail defect / wear
+ENG-00111,Engineering,Track,Ballast,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,CRITICAL,Ballast condition
+ENG-00112,Engineering,Bridge,Bridge Structure,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00113,Engineering,Track,Turnout,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,HIGH,Turnout defect
+ENG-00114,Engineering,Track,Sleeper,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,HIGH,Sleeper deterioration
+ENG-00115,Engineering,Track,Rail,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,HIGH,Rail defect / wear
+ENG-00116,Engineering,Track,Sleeper,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,HIGH,Sleeper deterioration
+ENG-00117,Engineering,Bridge,Bridge Structure,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,CRITICAL,Bridge inspection
+ENG-00118,Engineering,Bridge,Bridge Structure,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Bridge inspection
+ENG-00119,Engineering,Track,Rail,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,LOW,Rail defect / wear
+ENG-00120,Engineering,Track,Sleeper,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00121,Engineering,Track,Ballast,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,CRITICAL,Ballast condition
+ENG-00122,Engineering,Track,Sleeper,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00123,Engineering,Track,Rail,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,CRITICAL,Rail defect / wear
+ENG-00124,Engineering,Track,Sleeper,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,HIGH,Sleeper deterioration
+ENG-00125,Engineering,Track,Sleeper,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00126,Engineering,Track,Turnout,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,LOW,Turnout defect
+ENG-00127,Engineering,Track,Turnout,C02,C02-S02,C02-WA02,ST02,ST03,MONITORING,HIGH,Turnout defect
+ENG-00128,Engineering,Track,Sleeper,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00129,Engineering,Track,Ballast,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,LOW,Ballast condition
+ENG-00130,Engineering,Track,Turnout,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,CRITICAL,Turnout defect
+ENG-00131,Engineering,Track,Rail,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,Rail defect / wear
+ENG-00132,Engineering,Track,Rail,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,CRITICAL,Rail defect / wear
+ENG-00133,Engineering,Track,Ballast,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00134,Engineering,Track,Sleeper,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00135,Engineering,Track,Sleeper,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00136,Engineering,Track,Rail,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,HIGH,Rail defect / wear
+ENG-00137,Engineering,Track,Sleeper,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Sleeper deterioration
+ENG-00138,Engineering,Track,Rail,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,MEDIUM,Rail defect / wear
+ENG-00139,Engineering,Track,Sleeper,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,MEDIUM,Sleeper deterioration
+ENG-00140,Engineering,Track,Rail,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,HIGH,Rail defect / wear
+ENG-00141,Engineering,Track,Rail,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,CRITICAL,Rail defect / wear
+ENG-00142,Engineering,Track,Sleeper,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,HIGH,Sleeper deterioration
+ENG-00143,Engineering,Track,Turnout,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,CRITICAL,Turnout defect
+ENG-00144,Engineering,Bridge,Bridge Structure,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,Bridge inspection
+ENG-00145,Engineering,Track,Sleeper,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,LOW,Sleeper deterioration
+ENG-00146,Engineering,Track,Sleeper,C03,C03-S03,C03-WA03,ST03,ST04,MONITORING,CRITICAL,Sleeper deterioration
+ENG-00147,Engineering,Track,Sleeper,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Sleeper deterioration
+ENG-00148,Engineering,Bridge,Bridge Structure,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Bridge inspection
+ENG-00149,Engineering,Track,Turnout,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Turnout defect
+ENG-00150,Engineering,Track,Sleeper,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,CRITICAL,Sleeper deterioration
+ENG-00151,Engineering,Track,Rail,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,CRITICAL,Rail defect / wear
+ENG-00152,Engineering,Track,Ballast,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,Ballast condition
+ENG-00153,Engineering,Track,Ballast,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,LOW,Ballast condition
+ENG-00154,Engineering,Track,Ballast,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,LOW,Ballast condition
+ENG-00155,Engineering,Track,Turnout,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,CRITICAL,Turnout defect
+ENG-00156,Engineering,Bridge,Bridge Structure,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00157,Engineering,Track,Sleeper,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Sleeper deterioration
+ENG-00158,Engineering,Bridge,Bridge Structure,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Bridge inspection
+ENG-00159,Engineering,Bridge,Bridge Structure,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,CRITICAL,Bridge inspection
+ENG-00160,Engineering,Track,Rail,C03,C03-S03,C03-WA03,ST03,ST04,MONITORING,HIGH,Rail defect / wear
+ENG-00161,Engineering,Track,Sleeper,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,LOW,Sleeper deterioration
+ENG-00162,Engineering,Track,Turnout,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Turnout defect
+ENG-00163,Engineering,Track,Turnout,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,LOW,Turnout defect
+ENG-00164,Engineering,Track,Ballast,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Ballast condition
+ENG-00165,Engineering,Track,Rail,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,LOW,Rail defect / wear
+ENG-00166,Engineering,Track,Sleeper,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,LOW,Sleeper deterioration
+ENG-00167,Engineering,Track,Rail,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,CRITICAL,Rail defect / wear
+ENG-00168,Engineering,Bridge,Bridge Structure,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00169,Engineering,Track,Rail,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,MEDIUM,Rail defect / wear
+ENG-00170,Engineering,Track,Ballast,C03,C03-S04,C03-WA04,ST03,ST04,MONITORING,MEDIUM,Ballast condition
+ENG-00171,Engineering,Track,Turnout,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,LOW,Turnout defect
+ENG-00172,Engineering,Track,Rail,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,MEDIUM,Rail defect / wear
+ENG-00173,Engineering,Track,Turnout,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,HIGH,Turnout defect
+ENG-00174,Engineering,Bridge,Bridge Structure,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,CRITICAL,Bridge inspection
+ENG-00175,Engineering,Bridge,Bridge Structure,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,CRITICAL,Bridge inspection
+ENG-00176,Engineering,Track,Ballast,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,CRITICAL,Ballast condition
+ENG-00177,Engineering,Bridge,Bridge Structure,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Bridge inspection
+ENG-00178,Engineering,Bridge,Bridge Structure,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,LOW,Bridge inspection
+ENG-00179,Engineering,Track,Rail,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,MEDIUM,Rail defect / wear
+ENG-00180,Engineering,Track,Turnout,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,HIGH,Turnout defect
+S&T-00181,S&T,Point Machine,Point Machine,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Point machine abnormality
+S&T-00182,S&T,Axle Counter,Axle Counter,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00183,S&T,Point Machine,Point Machine,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,CRITICAL,Point machine abnormality
+S&T-00184,S&T,Telecom,Communication,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,CRITICAL,Communication equipment fault
+S&T-00185,S&T,Point Machine,Point Machine,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,MEDIUM,Point machine abnormality
+S&T-00186,S&T,Signal,Signal,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,MEDIUM,Signal aspect fault
+S&T-00187,S&T,Signal,Signal,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,MEDIUM,Signal aspect fault
+S&T-00188,S&T,Telecom,Communication,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00189,S&T,Track Circuit,Track Circuit,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00190,S&T,Signal,Signal,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Signal aspect fault
+S&T-00191,S&T,Signal,Signal,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,HIGH,Signal aspect fault
+S&T-00192,S&T,Signal,Signal,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,CRITICAL,Signal aspect fault
+S&T-00193,S&T,Signal,Signal,C01,C01-S01,C01-WA01,ST01,ST02,MONITORING,LOW,Signal aspect fault
+S&T-00194,S&T,Track Circuit,Track Circuit,C03,C03-S03,C03-WA03,ST03,ST04,MONITORING,CRITICAL,Track circuit intermittent fault
+S&T-00195,S&T,Point Machine,Point Machine,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,HIGH,Point machine abnormality
+S&T-00196,S&T,Telecom,Communication,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00197,S&T,Track Circuit,Track Circuit,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00198,S&T,Track Circuit,Track Circuit,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00199,S&T,Point Machine,Point Machine,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,CRITICAL,Point machine abnormality
+S&T-00200,S&T,Axle Counter,Axle Counter,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,HIGH,Axle counter indication fault
+S&T-00201,S&T,Point Machine,Point Machine,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,CRITICAL,Point machine abnormality
+S&T-00202,S&T,Signal,Signal,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,CRITICAL,Signal aspect fault
+S&T-00203,S&T,Axle Counter,Axle Counter,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,CRITICAL,Axle counter indication fault
+S&T-00204,S&T,Telecom,Communication,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,HIGH,Communication equipment fault
+S&T-00205,S&T,Telecom,Communication,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,MEDIUM,Communication equipment fault
+S&T-00206,S&T,Signal,Signal,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,LOW,Signal aspect fault
+S&T-00207,S&T,Axle Counter,Axle Counter,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,MEDIUM,Axle counter indication fault
+S&T-00208,S&T,Telecom,Communication,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00209,S&T,Signal,Signal,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,MEDIUM,Signal aspect fault
+S&T-00210,S&T,Telecom,Communication,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,LOW,Communication equipment fault
+S&T-00211,S&T,Track Circuit,Track Circuit,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00212,S&T,Axle Counter,Axle Counter,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00213,S&T,Track Circuit,Track Circuit,C03,C03-S04,C03-WA04,ST03,ST04,MONITORING,MEDIUM,Track circuit intermittent fault
+S&T-00214,S&T,Telecom,Communication,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,CRITICAL,Communication equipment fault
+S&T-00215,S&T,Axle Counter,Axle Counter,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,HIGH,Axle counter indication fault
+S&T-00216,S&T,Telecom,Communication,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Communication equipment fault
+S&T-00217,S&T,Axle Counter,Axle Counter,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,LOW,Axle counter indication fault
+S&T-00218,S&T,Signal,Signal,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Signal aspect fault
+S&T-00219,S&T,Telecom,Communication,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,HIGH,Communication equipment fault
+S&T-00220,S&T,Track Circuit,Track Circuit,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,MEDIUM,Track circuit intermittent fault
+S&T-00221,S&T,Point Machine,Point Machine,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,MEDIUM,Point machine abnormality
+S&T-00222,S&T,Telecom,Communication,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00223,S&T,Signal,Signal,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Signal aspect fault
+S&T-00224,S&T,Telecom,Communication,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,CRITICAL,Communication equipment fault
+S&T-00225,S&T,Axle Counter,Axle Counter,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,HIGH,Axle counter indication fault
+S&T-00226,S&T,Track Circuit,Track Circuit,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00227,S&T,Track Circuit,Track Circuit,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,HIGH,Track circuit intermittent fault
+S&T-00228,S&T,Axle Counter,Axle Counter,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,Axle counter indication fault
+S&T-00229,S&T,Signal,Signal,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,Signal aspect fault
+S&T-00230,S&T,Signal,Signal,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,HIGH,Signal aspect fault
+S&T-00231,S&T,Telecom,Communication,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00232,S&T,Signal,Signal,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,HIGH,Signal aspect fault
+S&T-00233,S&T,Track Circuit,Track Circuit,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00234,S&T,Telecom,Communication,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00235,S&T,Axle Counter,Axle Counter,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00236,S&T,Point Machine,Point Machine,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,LOW,Point machine abnormality
+S&T-00237,S&T,Track Circuit,Track Circuit,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,HIGH,Track circuit intermittent fault
+S&T-00238,S&T,Track Circuit,Track Circuit,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,MEDIUM,Track circuit intermittent fault
+S&T-00239,S&T,Track Circuit,Track Circuit,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,LOW,Track circuit intermittent fault
+S&T-00240,S&T,Track Circuit,Track Circuit,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00241,S&T,Point Machine,Point Machine,C03,C03-S04,C03-WA04,ST03,ST04,MONITORING,CRITICAL,Point machine abnormality
+S&T-00242,S&T,Point Machine,Point Machine,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,HIGH,Point machine abnormality
+S&T-00243,S&T,Telecom,Communication,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00244,S&T,Track Circuit,Track Circuit,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,LOW,Track circuit intermittent fault
+S&T-00245,S&T,Signal,Signal,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,CRITICAL,Signal aspect fault
+S&T-00246,S&T,Track Circuit,Track Circuit,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00247,S&T,Telecom,Communication,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,MEDIUM,Communication equipment fault
+S&T-00248,S&T,Signal,Signal,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Signal aspect fault
+S&T-00249,S&T,Track Circuit,Track Circuit,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00250,S&T,Signal,Signal,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,MEDIUM,Signal aspect fault
+S&T-00251,S&T,Telecom,Communication,C03,C03-S03,C03-WA03,ST03,ST04,MONITORING,HIGH,Communication equipment fault
+S&T-00252,S&T,Telecom,Communication,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,LOW,Communication equipment fault
+S&T-00253,S&T,Point Machine,Point Machine,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,LOW,Point machine abnormality
+S&T-00254,S&T,Point Machine,Point Machine,C03,C03-S01,C03-WA01,ST03,ST04,MONITORING,MEDIUM,Point machine abnormality
+S&T-00255,S&T,Point Machine,Point Machine,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Point machine abnormality
+S&T-00256,S&T,Track Circuit,Track Circuit,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00257,S&T,Telecom,Communication,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,CRITICAL,Communication equipment fault
+S&T-00258,S&T,Telecom,Communication,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,HIGH,Communication equipment fault
+S&T-00259,S&T,Signal,Signal,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,HIGH,Signal aspect fault
+S&T-00260,S&T,Point Machine,Point Machine,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Point machine abnormality
+S&T-00261,S&T,Axle Counter,Axle Counter,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00262,S&T,Track Circuit,Track Circuit,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00263,S&T,Signal,Signal,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,MEDIUM,Signal aspect fault
+S&T-00264,S&T,Telecom,Communication,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Communication equipment fault
+S&T-00265,S&T,Telecom,Communication,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00266,S&T,Telecom,Communication,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Communication equipment fault
+S&T-00267,S&T,Point Machine,Point Machine,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,LOW,Point machine abnormality
+S&T-00268,S&T,Track Circuit,Track Circuit,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,LOW,Track circuit intermittent fault
+S&T-00269,S&T,Point Machine,Point Machine,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,CRITICAL,Point machine abnormality
+S&T-00270,S&T,Point Machine,Point Machine,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,HIGH,Point machine abnormality
+S&T-00271,S&T,Track Circuit,Track Circuit,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00272,S&T,Point Machine,Point Machine,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,LOW,Point machine abnormality
+S&T-00273,S&T,Track Circuit,Track Circuit,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,LOW,Track circuit intermittent fault
+S&T-00274,S&T,Telecom,Communication,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00275,S&T,Axle Counter,Axle Counter,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,CRITICAL,Axle counter indication fault
+S&T-00276,S&T,Telecom,Communication,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00277,S&T,Telecom,Communication,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Communication equipment fault
+S&T-00278,S&T,Axle Counter,Axle Counter,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,HIGH,Axle counter indication fault
+S&T-00279,S&T,Telecom,Communication,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,HIGH,Communication equipment fault
+S&T-00280,S&T,Track Circuit,Track Circuit,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00281,S&T,Track Circuit,Track Circuit,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00282,S&T,Telecom,Communication,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,HIGH,Communication equipment fault
+S&T-00283,S&T,Signal,Signal,C03,C03-S01,C03-WA01,ST03,ST04,MONITORING,HIGH,Signal aspect fault
+S&T-00284,S&T,Telecom,Communication,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Communication equipment fault
+S&T-00285,S&T,Axle Counter,Axle Counter,C02,C02-S02,C02-WA02,ST02,ST03,MONITORING,HIGH,Axle counter indication fault
+S&T-00286,S&T,Track Circuit,Track Circuit,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00287,S&T,Telecom,Communication,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00288,S&T,Track Circuit,Track Circuit,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,LOW,Track circuit intermittent fault
+S&T-00289,S&T,Signal,Signal,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Signal aspect fault
+S&T-00290,S&T,Axle Counter,Axle Counter,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00291,S&T,Track Circuit,Track Circuit,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00292,S&T,Point Machine,Point Machine,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,MEDIUM,Point machine abnormality
+S&T-00293,S&T,Track Circuit,Track Circuit,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,HIGH,Track circuit intermittent fault
+S&T-00294,S&T,Signal,Signal,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Signal aspect fault
+S&T-00295,S&T,Telecom,Communication,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00296,S&T,Axle Counter,Axle Counter,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00297,S&T,Track Circuit,Track Circuit,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00298,S&T,Axle Counter,Axle Counter,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00299,S&T,Telecom,Communication,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,CRITICAL,Communication equipment fault
+S&T-00300,S&T,Telecom,Communication,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,CRITICAL,Communication equipment fault
+S&T-00301,S&T,Telecom,Communication,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00302,S&T,Telecom,Communication,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,HIGH,Communication equipment fault
+S&T-00303,S&T,Track Circuit,Track Circuit,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Track circuit intermittent fault
+S&T-00304,S&T,Telecom,Communication,C03,C03-S04,C03-WA04,ST03,ST04,MONITORING,HIGH,Communication equipment fault
+S&T-00305,S&T,Track Circuit,Track Circuit,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,CRITICAL,Track circuit intermittent fault
+S&T-00306,S&T,Axle Counter,Axle Counter,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00307,S&T,Track Circuit,Track Circuit,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00308,S&T,Axle Counter,Axle Counter,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,CRITICAL,Axle counter indication fault
+S&T-00309,S&T,Axle Counter,Axle Counter,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00310,S&T,Signal,Signal,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Signal aspect fault
+S&T-00311,S&T,Point Machine,Point Machine,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Point machine abnormality
+S&T-00312,S&T,Signal,Signal,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,CRITICAL,Signal aspect fault
+S&T-00313,S&T,Track Circuit,Track Circuit,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,CRITICAL,Track circuit intermittent fault
+S&T-00314,S&T,Point Machine,Point Machine,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,LOW,Point machine abnormality
+S&T-00315,S&T,Track Circuit,Track Circuit,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,MEDIUM,Track circuit intermittent fault
+S&T-00316,S&T,Telecom,Communication,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00317,S&T,Axle Counter,Axle Counter,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,CRITICAL,Axle counter indication fault
+S&T-00318,S&T,Axle Counter,Axle Counter,C04,C04-S04,C04-WA04,ST04,ST05,MONITORING,HIGH,Axle counter indication fault
+S&T-00319,S&T,Axle Counter,Axle Counter,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,CRITICAL,Axle counter indication fault
+S&T-00320,S&T,Track Circuit,Track Circuit,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,HIGH,Track circuit intermittent fault
+S&T-00321,S&T,Telecom,Communication,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,LOW,Communication equipment fault
+S&T-00322,S&T,Axle Counter,Axle Counter,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,HIGH,Axle counter indication fault
+S&T-00323,S&T,Point Machine,Point Machine,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,MEDIUM,Point machine abnormality
+S&T-00324,S&T,Telecom,Communication,C03,C03-S03,C03-WA03,ST03,ST04,MONITORING,MEDIUM,Communication equipment fault
+S&T-00325,S&T,Signal,Signal,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,LOW,Signal aspect fault
+S&T-00326,S&T,Telecom,Communication,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,HIGH,Communication equipment fault
+S&T-00327,S&T,Telecom,Communication,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00328,S&T,Signal,Signal,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,HIGH,Signal aspect fault
+S&T-00329,S&T,Signal,Signal,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Signal aspect fault
+S&T-00330,S&T,Telecom,Communication,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,LOW,Communication equipment fault
+S&T-00331,S&T,Signal,Signal,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Signal aspect fault
+S&T-00332,S&T,Signal,Signal,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,CRITICAL,Signal aspect fault
+S&T-00333,S&T,Telecom,Communication,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,LOW,Communication equipment fault
+S&T-00334,S&T,Signal,Signal,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,LOW,Signal aspect fault
+S&T-00335,S&T,Signal,Signal,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,CRITICAL,Signal aspect fault
+S&T-00336,S&T,Telecom,Communication,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00337,S&T,Axle Counter,Axle Counter,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,CRITICAL,Axle counter indication fault
+S&T-00338,S&T,Axle Counter,Axle Counter,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,CRITICAL,Axle counter indication fault
+S&T-00339,S&T,Point Machine,Point Machine,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,LOW,Point machine abnormality
+S&T-00340,S&T,Telecom,Communication,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00341,S&T,Axle Counter,Axle Counter,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,HIGH,Axle counter indication fault
+S&T-00342,S&T,Axle Counter,Axle Counter,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Axle counter indication fault
+S&T-00343,S&T,Point Machine,Point Machine,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,CRITICAL,Point machine abnormality
+S&T-00344,S&T,Point Machine,Point Machine,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,HIGH,Point machine abnormality
+S&T-00345,S&T,Signal,Signal,C03,C03-S04,C03-WA04,ST03,ST04,MONITORING,MEDIUM,Signal aspect fault
+S&T-00346,S&T,Point Machine,Point Machine,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,HIGH,Point machine abnormality
+S&T-00347,S&T,Point Machine,Point Machine,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Point machine abnormality
+S&T-00348,S&T,Signal,Signal,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,LOW,Signal aspect fault
+S&T-00349,S&T,Signal,Signal,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Signal aspect fault
+S&T-00350,S&T,Telecom,Communication,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,HIGH,Communication equipment fault
+S&T-00351,S&T,Telecom,Communication,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,CRITICAL,Communication equipment fault
+S&T-00352,S&T,Axle Counter,Axle Counter,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,CRITICAL,Axle counter indication fault
+S&T-00353,S&T,Track Circuit,Track Circuit,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,HIGH,Track circuit intermittent fault
+S&T-00354,S&T,Point Machine,Point Machine,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Point machine abnormality
+S&T-00355,S&T,Signal,Signal,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,LOW,Signal aspect fault
+S&T-00356,S&T,Signal,Signal,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,LOW,Signal aspect fault
+S&T-00357,S&T,Telecom,Communication,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Communication equipment fault
+S&T-00358,S&T,Track Circuit,Track Circuit,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,CRITICAL,Track circuit intermittent fault
+S&T-00359,S&T,Track Circuit,Track Circuit,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,LOW,Track circuit intermittent fault
+S&T-00360,S&T,Track Circuit,Track Circuit,C01,C01-S01,C01-WA01,ST01,ST02,MONITORING,MEDIUM,Track circuit intermittent fault
+TRA-00361,Traction,OHE,Contact Wire,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,MEDIUM,Contact wire wear
+TRA-00362,Traction,OHE,Fitting,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00363,Traction,Traction Mast,Mast,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,CRITICAL,Traction mast defect
+TRA-00364,Traction,Isolator,Isolator,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,HIGH,Insulator condition issue
+TRA-00365,Traction,Catenary,Catenary,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,CRITICAL,Catenary alignment issue
+TRA-00366,Traction,Catenary,Catenary,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,CRITICAL,Catenary alignment issue
+TRA-00367,Traction,Isolator,Isolator,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,CRITICAL,Insulator condition issue
+TRA-00368,Traction,Traction Mast,Mast,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00369,Traction,OHE,Contact Wire,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,HIGH,Contact wire wear
+TRA-00370,Traction,Isolator,Isolator,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00371,Traction,Catenary,Catenary,C03,C03-S03,C03-WA03,ST03,ST04,MONITORING,HIGH,Catenary alignment issue
+TRA-00372,Traction,OHE,Fitting,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00373,Traction,Traction Mast,Mast,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,LOW,Traction mast defect
+TRA-00374,Traction,OHE,Contact Wire,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,CRITICAL,Contact wire wear
+TRA-00375,Traction,OHE,Fitting,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00376,Traction,OHE,Fitting,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,HIGH,OHE fitting deterioration
+TRA-00377,Traction,Catenary,Catenary,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,CRITICAL,Catenary alignment issue
+TRA-00378,Traction,OHE,Fitting,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,HIGH,OHE fitting deterioration
+TRA-00379,Traction,Catenary,Catenary,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Catenary alignment issue
+TRA-00380,Traction,Traction Mast,Mast,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00381,Traction,OHE,Fitting,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00382,Traction,Traction Mast,Mast,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,MEDIUM,Traction mast defect
+TRA-00383,Traction,Catenary,Catenary,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,HIGH,Catenary alignment issue
+TRA-00384,Traction,OHE,Fitting,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,OHE fitting deterioration
+TRA-00385,Traction,Catenary,Catenary,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Catenary alignment issue
+TRA-00386,Traction,OHE,Fitting,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00387,Traction,Isolator,Isolator,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,LOW,Insulator condition issue
+TRA-00388,Traction,Catenary,Catenary,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,MEDIUM,Catenary alignment issue
+TRA-00389,Traction,Isolator,Isolator,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00390,Traction,Catenary,Catenary,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,HIGH,Catenary alignment issue
+TRA-00391,Traction,OHE,Contact Wire,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,MEDIUM,Contact wire wear
+TRA-00392,Traction,OHE,Contact Wire,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Contact wire wear
+TRA-00393,Traction,Isolator,Isolator,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,HIGH,Insulator condition issue
+TRA-00394,Traction,OHE,Fitting,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00395,Traction,Isolator,Isolator,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Insulator condition issue
+TRA-00396,Traction,Traction Mast,Mast,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00397,Traction,Isolator,Isolator,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,HIGH,Insulator condition issue
+TRA-00398,Traction,OHE,Contact Wire,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,MEDIUM,Contact wire wear
+TRA-00399,Traction,Catenary,Catenary,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,HIGH,Catenary alignment issue
+TRA-00400,Traction,Traction Mast,Mast,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00401,Traction,Isolator,Isolator,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,LOW,Insulator condition issue
+TRA-00402,Traction,Isolator,Isolator,C01,C01-S01,C01-WA01,ST01,ST02,MONITORING,MEDIUM,Insulator condition issue
+TRA-00403,Traction,OHE,Fitting,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,MEDIUM,OHE fitting deterioration
+TRA-00404,Traction,Catenary,Catenary,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Catenary alignment issue
+TRA-00405,Traction,Isolator,Isolator,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00406,Traction,OHE,Contact Wire,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,MEDIUM,Contact wire wear
+TRA-00407,Traction,Traction Mast,Mast,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Traction mast defect
+TRA-00408,Traction,Catenary,Catenary,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00409,Traction,Traction Mast,Mast,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,LOW,Traction mast defect
+TRA-00410,Traction,OHE,Fitting,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00411,Traction,Catenary,Catenary,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Catenary alignment issue
+TRA-00412,Traction,Catenary,Catenary,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,MEDIUM,Catenary alignment issue
+TRA-00413,Traction,OHE,Contact Wire,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,CRITICAL,Contact wire wear
+TRA-00414,Traction,Traction Mast,Mast,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,LOW,Traction mast defect
+TRA-00415,Traction,Traction Mast,Mast,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00416,Traction,OHE,Contact Wire,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,HIGH,Contact wire wear
+TRA-00417,Traction,Traction Mast,Mast,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00418,Traction,Traction Mast,Mast,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,HIGH,Traction mast defect
+TRA-00419,Traction,OHE,Contact Wire,C02,C02-S02,C02-WA02,ST02,ST03,MONITORING,MEDIUM,Contact wire wear
+TRA-00420,Traction,Traction Mast,Mast,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00421,Traction,Catenary,Catenary,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00422,Traction,OHE,Fitting,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,CRITICAL,OHE fitting deterioration
+TRA-00423,Traction,OHE,Contact Wire,C04,C04-S03,C04-WA03,ST04,ST05,MONITORING,HIGH,Contact wire wear
+TRA-00424,Traction,Isolator,Isolator,C01,C01-S01,C01-WA01,ST01,ST02,MONITORING,MEDIUM,Insulator condition issue
+TRA-00425,Traction,Traction Mast,Mast,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,CRITICAL,Traction mast defect
+TRA-00426,Traction,Isolator,Isolator,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,CRITICAL,Insulator condition issue
+TRA-00427,Traction,Isolator,Isolator,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00428,Traction,Traction Mast,Mast,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,HIGH,Traction mast defect
+TRA-00429,Traction,Catenary,Catenary,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00430,Traction,OHE,Fitting,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00431,Traction,Isolator,Isolator,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00432,Traction,Traction Mast,Mast,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00433,Traction,Traction Mast,Mast,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,LOW,Traction mast defect
+TRA-00434,Traction,Traction Mast,Mast,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,LOW,Traction mast defect
+TRA-00435,Traction,Catenary,Catenary,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00436,Traction,Traction Mast,Mast,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,CRITICAL,Traction mast defect
+TRA-00437,Traction,OHE,Contact Wire,C03,C03-S03,C03-WA03,ST03,ST04,MONITORING,LOW,Contact wire wear
+TRA-00438,Traction,Traction Mast,Mast,C04,C04-S02,C04-WA02,ST04,ST05,MONITORING,HIGH,Traction mast defect
+TRA-00439,Traction,OHE,Fitting,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,LOW,OHE fitting deterioration
+TRA-00440,Traction,OHE,Contact Wire,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,MEDIUM,Contact wire wear
+TRA-00441,Traction,Catenary,Catenary,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,MEDIUM,Catenary alignment issue
+TRA-00442,Traction,Traction Mast,Mast,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Traction mast defect
+TRA-00443,Traction,Traction Mast,Mast,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Traction mast defect
+TRA-00444,Traction,OHE,Contact Wire,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,CRITICAL,Contact wire wear
+TRA-00445,Traction,Traction Mast,Mast,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00446,Traction,OHE,Contact Wire,C04,C04-S04,C04-WA04,ST04,ST05,MONITORING,LOW,Contact wire wear
+TRA-00447,Traction,Isolator,Isolator,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,CRITICAL,Insulator condition issue
+TRA-00448,Traction,Catenary,Catenary,C02,C02-S01,C02-WA01,ST02,ST03,MONITORING,MEDIUM,Catenary alignment issue
+TRA-00449,Traction,OHE,Contact Wire,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,HIGH,Contact wire wear
+TRA-00450,Traction,Catenary,Catenary,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00451,Traction,OHE,Fitting,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,CRITICAL,OHE fitting deterioration
+TRA-00452,Traction,OHE,Fitting,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00453,Traction,Isolator,Isolator,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00454,Traction,Catenary,Catenary,C02,C02-S02,C02-WA02,ST02,ST03,MONITORING,CRITICAL,Catenary alignment issue
+TRA-00455,Traction,OHE,Contact Wire,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,LOW,Contact wire wear
+TRA-00456,Traction,Catenary,Catenary,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00457,Traction,Traction Mast,Mast,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00458,Traction,Traction Mast,Mast,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,HIGH,Traction mast defect
+TRA-00459,Traction,Isolator,Isolator,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00460,Traction,OHE,Fitting,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,LOW,OHE fitting deterioration
+TRA-00461,Traction,Traction Mast,Mast,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,LOW,Traction mast defect
+TRA-00462,Traction,Isolator,Isolator,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,Insulator condition issue
+TRA-00463,Traction,Traction Mast,Mast,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,CRITICAL,Traction mast defect
+TRA-00464,Traction,Catenary,Catenary,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,LOW,Catenary alignment issue
+TRA-00465,Traction,Isolator,Isolator,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00466,Traction,Isolator,Isolator,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00467,Traction,Catenary,Catenary,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,MEDIUM,Catenary alignment issue
+TRA-00468,Traction,OHE,Fitting,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00469,Traction,Isolator,Isolator,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00470,Traction,OHE,Fitting,C04,C04-S04,C04-WA04,ST04,ST05,MONITORING,CRITICAL,OHE fitting deterioration
+TRA-00471,Traction,Traction Mast,Mast,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,HIGH,Traction mast defect
+TRA-00472,Traction,Isolator,Isolator,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,MEDIUM,Insulator condition issue
+TRA-00473,Traction,Isolator,Isolator,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,LOW,Insulator condition issue
+TRA-00474,Traction,Catenary,Catenary,C04,C04-S03,C04-WA03,ST04,ST05,IN_SERVICE,MEDIUM,Catenary alignment issue
+TRA-00475,Traction,Traction Mast,Mast,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,CRITICAL,Traction mast defect
+TRA-00476,Traction,Catenary,Catenary,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00477,Traction,Catenary,Catenary,C01,C01-S01,C01-WA01,ST01,ST02,MONITORING,MEDIUM,Catenary alignment issue
+TRA-00478,Traction,OHE,Contact Wire,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,MEDIUM,Contact wire wear
+TRA-00479,Traction,Traction Mast,Mast,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,MEDIUM,Traction mast defect
+TRA-00480,Traction,OHE,Fitting,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,LOW,OHE fitting deterioration
+TRA-00481,Traction,OHE,Contact Wire,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,MEDIUM,Contact wire wear
+TRA-00482,Traction,Catenary,Catenary,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,CRITICAL,Catenary alignment issue
+TRA-00483,Traction,Isolator,Isolator,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,HIGH,Insulator condition issue
+TRA-00484,Traction,OHE,Fitting,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00485,Traction,Traction Mast,Mast,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,CRITICAL,Traction mast defect
+TRA-00486,Traction,OHE,Fitting,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,HIGH,OHE fitting deterioration
+TRA-00487,Traction,Traction Mast,Mast,C02,C02-S03,C02-WA03,ST02,ST03,MONITORING,MEDIUM,Traction mast defect
+TRA-00488,Traction,Isolator,Isolator,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,LOW,Insulator condition issue
+TRA-00489,Traction,Traction Mast,Mast,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,CRITICAL,Traction mast defect
+TRA-00490,Traction,OHE,Contact Wire,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,LOW,Contact wire wear
+TRA-00491,Traction,OHE,Fitting,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,HIGH,OHE fitting deterioration
+TRA-00492,Traction,Isolator,Isolator,C01,C01-S03,C01-WA03,ST01,ST02,MONITORING,LOW,Insulator condition issue
+TRA-00493,Traction,OHE,Fitting,C04,C04-S02,C04-WA02,ST04,ST05,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00494,Traction,OHE,Fitting,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,LOW,OHE fitting deterioration
+TRA-00495,Traction,Traction Mast,Mast,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,CRITICAL,Traction mast defect
+TRA-00496,Traction,Isolator,Isolator,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,CRITICAL,Insulator condition issue
+TRA-00497,Traction,Traction Mast,Mast,C02,C02-S04,C02-WA04,ST02,ST03,MONITORING,LOW,Traction mast defect
+TRA-00498,Traction,Catenary,Catenary,C03,C03-S04,C03-WA04,ST03,ST04,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00499,Traction,OHE,Contact Wire,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,CRITICAL,Contact wire wear
+TRA-00500,Traction,Isolator,Isolator,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,MEDIUM,Insulator condition issue
+TRA-00501,Traction,OHE,Contact Wire,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,LOW,Contact wire wear
+TRA-00502,Traction,OHE,Contact Wire,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,LOW,Contact wire wear
+TRA-00503,Traction,Isolator,Isolator,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,HIGH,Insulator condition issue
+TRA-00504,Traction,OHE,Fitting,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,MEDIUM,OHE fitting deterioration
+TRA-00505,Traction,Isolator,Isolator,C01,C01-S04,C01-WA04,ST01,ST02,MONITORING,LOW,Insulator condition issue
+TRA-00506,Traction,OHE,Fitting,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,CRITICAL,OHE fitting deterioration
+TRA-00507,Traction,OHE,Fitting,C03,C03-S03,C03-WA03,ST03,ST04,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00508,Traction,OHE,Fitting,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00509,Traction,Catenary,Catenary,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,Catenary alignment issue
+TRA-00510,Traction,Isolator,Isolator,C02,C02-S02,C02-WA02,ST02,ST03,MONITORING,HIGH,Insulator condition issue
+TRA-00511,Traction,OHE,Fitting,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,LOW,OHE fitting deterioration
+TRA-00512,Traction,Isolator,Isolator,C01,C01-S02,C01-WA02,ST01,ST02,MONITORING,MEDIUM,Insulator condition issue
+TRA-00513,Traction,Traction Mast,Mast,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,CRITICAL,Traction mast defect
+TRA-00514,Traction,OHE,Fitting,C02,C02-S03,C02-WA03,ST02,ST03,IN_SERVICE,LOW,OHE fitting deterioration
+TRA-00515,Traction,Catenary,Catenary,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,CRITICAL,Catenary alignment issue
+TRA-00516,Traction,OHE,Fitting,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00517,Traction,Traction Mast,Mast,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00518,Traction,OHE,Contact Wire,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,LOW,Contact wire wear
+TRA-00519,Traction,OHE,Fitting,C01,C01-S01,C01-WA01,ST01,ST02,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00520,Traction,Isolator,Isolator,C02,C02-S02,C02-WA02,ST02,ST03,MONITORING,MEDIUM,Insulator condition issue
+TRA-00521,Traction,OHE,Fitting,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00522,Traction,Catenary,Catenary,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,CRITICAL,Catenary alignment issue
+TRA-00523,Traction,OHE,Fitting,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,HIGH,OHE fitting deterioration
+TRA-00524,Traction,Catenary,Catenary,C02,C02-S01,C02-WA01,ST02,ST03,IN_SERVICE,LOW,Catenary alignment issue
+TRA-00525,Traction,OHE,Fitting,C03,C03-S02,C03-WA02,ST03,ST04,MONITORING,MEDIUM,OHE fitting deterioration
+TRA-00526,Traction,Traction Mast,Mast,C02,C02-S02,C02-WA02,ST02,ST03,IN_SERVICE,LOW,Traction mast defect
+TRA-00527,Traction,Catenary,Catenary,C02,C02-S01,C02-WA01,ST02,ST03,MONITORING,CRITICAL,Catenary alignment issue
+TRA-00528,Traction,OHE,Fitting,C04,C04-S01,C04-WA01,ST04,ST05,MONITORING,MEDIUM,OHE fitting deterioration
+TRA-00529,Traction,OHE,Fitting,C04,C04-S02,C04-WA02,ST04,ST05,MONITORING,CRITICAL,OHE fitting deterioration
+TRA-00530,Traction,Traction Mast,Mast,C03,C03-S01,C03-WA01,ST03,ST04,IN_SERVICE,MEDIUM,Traction mast defect
+TRA-00531,Traction,Isolator,Isolator,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,LOW,Insulator condition issue
+TRA-00532,Traction,OHE,Fitting,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,HIGH,OHE fitting deterioration
+TRA-00533,Traction,Traction Mast,Mast,C01,C01-S02,C01-WA02,ST01,ST02,IN_SERVICE,LOW,Traction mast defect
+TRA-00534,Traction,Traction Mast,Mast,C01,C01-S03,C01-WA03,ST01,ST02,IN_SERVICE,HIGH,Traction mast defect
+TRA-00535,Traction,Traction Mast,Mast,C03,C03-S01,C03-WA01,ST03,ST04,MONITORING,HIGH,Traction mast defect
+TRA-00536,Traction,OHE,Contact Wire,C02,C02-S04,C02-WA04,ST02,ST03,IN_SERVICE,HIGH,Contact wire wear
+TRA-00537,Traction,Catenary,Catenary,C04,C04-S04,C04-WA04,ST04,ST05,IN_SERVICE,MEDIUM,Catenary alignment issue
+TRA-00538,Traction,Traction Mast,Mast,C01,C01-S04,C01-WA04,ST01,ST02,IN_SERVICE,LOW,Traction mast defect
+TRA-00539,Traction,OHE,Fitting,C03,C03-S02,C03-WA02,ST03,ST04,IN_SERVICE,MEDIUM,OHE fitting deterioration
+TRA-00540,Traction,OHE,Contact Wire,C04,C04-S01,C04-WA01,ST04,ST05,IN_SERVICE,LOW,Contact wire wear

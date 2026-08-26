@@ -1,0 +1,14 @@
+department,maintenance_type,planning_class,minimum_duration_hours,maximum_duration_hours,project_safety_buffer_minutes,coordination_scope,requires_controller_approval
+Engineering,Track Inspection,NORMAL,1.0,3.0,15,SAME_SUBSECTION,True
+Engineering,Track Maintenance,NORMAL,1.5,4.0,15,SAME_SUBSECTION,True
+Engineering,Rail Renewal,URGENT,2.0,5.0,20,SAME_SUBSECTION,True
+Engineering,Sleeper Replacement,NORMAL,1.5,4.0,15,SAME_SUBSECTION,True
+Engineering,Turnout Maintenance,URGENT,2.0,4.0,20,SAME_SUBSECTION,True
+S&T,Signal Inspection,NORMAL,0.5,2.0,15,SAME_SUBSECTION,True
+S&T,Signal Maintenance,URGENT,1.0,3.0,20,SAME_SUBSECTION,True
+S&T,Track Circuit Testing,NORMAL,1.0,2.5,15,SAME_SUBSECTION,True
+S&T,Point Machine Maintenance,URGENT,1.0,3.0,20,SAME_SUBSECTION,True
+Traction,OHE Inspection,NORMAL,1.0,2.5,15,SAME_SUBSECTION,True
+Traction,OHE Maintenance,URGENT,1.5,4.0,20,SAME_SUBSECTION,True
+Traction,Catenary Inspection,NORMAL,1.0,3.0,15,SAME_SUBSECTION,True
+Traction,Isolator Maintenance,URGENT,1.0,3.0,20,SAME_SUBSECTION,True
