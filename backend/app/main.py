@@ -14,6 +14,7 @@ from app.api import (
     priorities,
     schedules,
     tasks,
+    trains, 
 )
 
 
@@ -91,6 +92,10 @@ app.include_router(
 
 app.include_router(
     emergency.router
+)
+
+app.include_router(
+    trains.router       
 )
 
 
